@@ -1,4 +1,6 @@
 fastapi
 uvicorn
 openai
-mangum
+fastapi-clerk-auth
+pydantic
+
